@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">OpenDataAPIReader</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="tenders">Tenders</string>
+    <string name="suppliers">Suppliers</string>
+    <string name="buyers">Buyers</string>
+    <string name="zakazky">Zakazky</string>
+    <string name="dodavatele">Dodavatele</string>
+    <string name="zadavatele">Zadavatele</string>
+
+    <color name="black">#000000</color>
+    <color name="black2">#f4000000</color>
+    <color name="red">#ba0000</color>
+    <color name="green">#47fc1a</color>
+    <color name="blue">#0f2e96</color>
+    <color name="shade">#ababab</color>
+    <color name="yellow">#ffd503</color>
+    <color name="white">#ffffff</color>
+    <color name="light_blue">#4141c3</color>
+    <color name="bg_color_1">#1a1a1c</color>
+    <color name="bg_color_2">#f9333396</color>
+</resources>
